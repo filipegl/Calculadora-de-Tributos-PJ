@@ -1,0 +1,10 @@
+[MASTER] 20:25:42.501 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.Map<K, V> : Type points to itself
+[MASTER] 20:25:42.517 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.List<E> : Type points to itself
+[MASTER] 20:26:30.622 [pool-2-thread-1] ERROR ClassStateSupport - Could not initialize com.actionbarsherlock.internal.widget.ScrollingTabContainerView: null
+[MASTER] 20:26:30.638 [pool-2-thread-1] ERROR ClassStateSupport - Could not initialize com.actionbarsherlock.internal.widget.ActionBarContextView: null
+[MASTER] 20:26:30.732 [pool-2-thread-1] ERROR ClassStateSupport - Could not initialize com.actionbarsherlock.internal.nineoldandroids.animation.ObjectAnimator: null
+[MASTER] 20:26:30.732 [pool-2-thread-1] ERROR ClassStateSupport - Could not initialize com.actionbarsherlock.internal.nineoldandroids.animation.ValueAnimator: Could not initialize class com.actionbarsherlock.internal.nineoldandroids.animation.ValueAnimator
+[MASTER] 20:26:30.747 [pool-2-thread-1] ERROR ClassStateSupport - Could not initialize com.actionbarsherlock.internal.widget.AbsActionBarView: Could not initialize class com.actionbarsherlock.internal.widget.AbsActionBarView
+[MASTER] 20:26:30.763 [pool-2-thread-1] ERROR ClassStateSupport - Could not initialize com.actionbarsherlock.internal.widget.ActionBarView: com.actionbarsherlock.internal.widget.AbsActionBarView
+[MASTER] 20:26:32.409 [pool-2-thread-1] ERROR ClassStateSupport - Could not initialize android.support.v4.app.FragmentManagerImpl: null
+[MASTER] 20:26:33.174 [pool-2-thread-1] ERROR JUnitAnalyzer - Ran out of time while checking tests

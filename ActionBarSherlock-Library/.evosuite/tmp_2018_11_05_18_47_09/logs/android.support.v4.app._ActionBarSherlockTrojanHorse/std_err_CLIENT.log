@@ -1,0 +1,12 @@
+[MASTER] 19:49:50.824 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.Map<K, V> : Type points to itself
+[MASTER] 19:49:50.824 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.List<E> : Type points to itself
+[MASTER] 19:51:46.872 [pool-2-thread-1] ERROR ClassStateSupport - Could not initialize android.support.v4.app.FragmentManagerImpl: null
+[MASTER] 19:51:47.310 [pool-2-thread-1] ERROR ClassResetter - java.lang.NoClassDefFoundError: Could not initialize class android.support.v4.app.FragmentManagerImpl
+[MASTER] 19:51:48.936 [pool-2-thread-1] ERROR ClassStateSupport - Could not initialize com.actionbarsherlock.internal.widget.ScrollingTabContainerView: null
+[MASTER] 19:51:48.952 [pool-2-thread-1] ERROR ClassStateSupport - Could not initialize com.actionbarsherlock.internal.widget.ActionBarContextView: null
+[MASTER] 19:51:49.093 [pool-2-thread-1] ERROR ClassStateSupport - Could not initialize com.actionbarsherlock.internal.widget.ActionBarView: com.actionbarsherlock.internal.widget.AbsActionBarView
+[MASTER] 19:51:49.389 [pool-2-thread-1] ERROR ClassStateSupport - Could not initialize com.actionbarsherlock.internal.nineoldandroids.animation.ObjectAnimator: null
+[MASTER] 19:51:49.389 [pool-2-thread-1] ERROR ClassStateSupport - Could not initialize com.actionbarsherlock.internal.nineoldandroids.animation.ValueAnimator: Could not initialize class com.actionbarsherlock.internal.nineoldandroids.animation.ValueAnimator
+[MASTER] 19:51:49.405 [pool-2-thread-1] ERROR ClassStateSupport - Could not initialize com.actionbarsherlock.internal.widget.AbsActionBarView: Could not initialize class com.actionbarsherlock.internal.widget.AbsActionBarView
+[MASTER] 19:51:49.561 [pool-2-thread-1] ERROR ClassResetter - java.lang.NoClassDefFoundError: Could not initialize class com.actionbarsherlock.internal.widget.AbsActionBarView
+[MASTER] 19:51:49.561 [pool-2-thread-1] ERROR ClassResetter - java.lang.NoClassDefFoundError: Could not initialize class com.actionbarsherlock.internal.widget.ScrollingTabContainerView

@@ -1,0 +1,119 @@
+* Starting client
+* Connecting to master process on port 17477
+* Analyzing classpath: 
+  - C:/Users/Thiago/Documents/Calculadora/Calculadora-de-Tributos-PJ/ActionBarSherlock-Library/target/classes
+  - C:\Users\Thiago\android-sdks\platforms\android-14\data\res
+  - C:\Users\Thiago\android-sdks\tools\support\annotations.jar
+  - C:\Program Files\Java\jdk1.8.0_181\jre\lib\charsets.jar
+  - C:\Program Files\Java\jdk1.8.0_181\jre\lib\deploy.jar
+  - C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\access-bridge-64.jar
+  - C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\cldrdata.jar
+  - C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\dnsns.jar
+  - C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\jaccess.jar
+  - C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\jfxrt.jar
+  - C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\localedata.jar
+  - C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\nashorn.jar
+  - C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\sunec.jar
+  - C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\sunjce_provider.jar
+  - C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\sunmscapi.jar
+  - C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\sunpkcs11.jar
+  - C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\zipfs.jar
+  - C:\Program Files\Java\jdk1.8.0_181\jre\lib\javaws.jar
+  - C:\Program Files\Java\jdk1.8.0_181\jre\lib\jce.jar
+  - C:\Program Files\Java\jdk1.8.0_181\jre\lib\jfr.jar
+  - C:\Program Files\Java\jdk1.8.0_181\jre\lib\jfxswt.jar
+  - C:\Program Files\Java\jdk1.8.0_181\jre\lib\jsse.jar
+  - C:\Program Files\Java\jdk1.8.0_181\jre\lib\management-agent.jar
+  - C:\Program Files\Java\jdk1.8.0_181\jre\lib\plugin.jar
+  - C:\Program Files\Java\jdk1.8.0_181\jre\lib\resources.jar
+  - C:\Program Files\Java\jdk1.8.0_181\jre\lib\rt.jar
+  - C:\Users\Thiago\Documents\Calculadora\Calculadora-de-Tributos-PJ\ActionBarSherlock-Library\target\test-classes
+  - C:\Users\Thiago\Documents\Calculadora\Calculadora-de-Tributos-PJ\ActionBarSherlock-Library\target\classes
+  - C:\Users\Thiago\.m2\repository\com\google\android\android\4.0.1.2\android-4.0.1.2.jar
+  - C:\Users\Thiago\.m2\repository\commons-logging\commons-logging\1.1.1\commons-logging-1.1.1.jar
+  - C:\Users\Thiago\.m2\repository\org\apache\httpcomponents\httpclient\4.0.1\httpclient-4.0.1.jar
+  - C:\Users\Thiago\.m2\repository\org\apache\httpcomponents\httpcore\4.0.1\httpcore-4.0.1.jar
+  - C:\Users\Thiago\.m2\repository\org\khronos\opengl-api\gl1.1-android-2.1_r1\opengl-api-gl1.1-android-2.1_r1.jar
+  - C:\Users\Thiago\.m2\repository\xerces\xmlParserAPIs\2.6.2\xmlParserAPIs-2.6.2.jar
+  - C:\Users\Thiago\.m2\repository\xpp3\xpp3\1.1.4c\xpp3-1.1.4c.jar
+  - C:\Users\Thiago\.m2\repository\org\json\json\20080701\json-20080701.jar
+  - C:\Users\Thiago\.m2\repository\com\google\android\support-v4\r7\support-v4-r7.jar
+  - C:\Users\Thiago\.m2\repository\com\pivotallabs\robolectric\1.1\robolectric-1.1.jar
+  - C:\Users\Thiago\.m2\repository\org\objenesis\objenesis\1.0\objenesis-1.0.jar
+  - C:\Users\Thiago\.m2\repository\org\xerial\sqlite-jdbc\3.7.2\sqlite-jdbc-3.7.2.jar
+  - C:\Users\Thiago\.m2\repository\org\javassist\javassist\3.14.0-GA\javassist-3.14.0-GA.jar
+  - C:\Users\Thiago\.m2\repository\commons-codec\commons-codec\1.3\commons-codec-1.3.jar
+  - C:\Users\Thiago\.m2\repository\junit\junit\4.10\junit-4.10.jar
+  - C:\Users\Thiago\.m2\repository\org\hamcrest\hamcrest-core\1.1\hamcrest-core-1.1.jar
+* Finished analyzing classpath
+* Generating tests for class com.actionbarsherlock.internal.widget.IcsListPopupWindow
+* Test criteria:
+  - Line Coverage
+  - Branch Coverage
+  - Exception
+  - Mutation testing (weak)
+  - Method-Output Coverage
+  - Top-Level Method Coverage
+  - No-Exception Top-Level Method Coverage
+  - Context Branch Coverage
+* Setting up search algorithm for whole suite generation
+[MASTER] 19:39:04.046 [pool-2-thread-1] WARN  TestSuiteSerialization - Cannot load tests because file does not exist: C:\Users\Thiago\Documents\Calculadora\Calculadora-de-Tributos-PJ\ActionBarSherlock-Library\.evosuite\evosuite-seeds\com.actionbarsherlock.internal.widget.IcsListPopupWindow.seed
+* Loaded 0 tests from C:\Users\Thiago\Documents\Calculadora\Calculadora-de-Tributos-PJ\ActionBarSherlock-Library\.evosuite\evosuite-seeds\com.actionbarsherlock.internal.widget.IcsListPopupWindow.seed
+* Total number of test goals: 
+  - Line 280
+  - Branch 187
+  - Exception 0
+  - MutationFactory 664
+  - Output 4
+  - Method 30
+  - MethodNoException 30
+  - CBranchFitnessFactory 187
+* Using seed 1541453933490
+* Starting evolution
+* Search finished after 175s and 1167 generations, 83583 statements, best individual has fitness: 1655.24609375
+* Writing sequences to pool
+* Minimizing test suite
+* Going to analyze the coverage criteria
+* Coverage analysis for criterion LINE
+* Coverage of criterion LINE: 9%
+* Total number of goals: 280
+* Number of covered goals: 24
+* Coverage analysis for criterion BRANCH
+* Coverage of criterion BRANCH: 1%
+* Total number of goals: 187
+* Number of covered goals: 2
+* Coverage analysis for criterion EXCEPTION
+* Coverage of criterion EXCEPTION: 100%
+* Total number of goals: 3
+* Number of covered goals: 3
+* Coverage analysis for criterion WEAKMUTATION
+* Coverage of criterion WEAKMUTATION: 0%
+* Total number of goals: 664
+* Number of covered goals: 0
+* Coverage analysis for criterion OUTPUT
+* Coverage of criterion OUTPUT: 0%
+* Total number of goals: 4
+* Number of covered goals: 0
+* Coverage analysis for criterion METHOD
+* Coverage of criterion METHOD: 10%
+* Total number of goals: 30
+* Number of covered goals: 3
+* Coverage analysis for criterion METHODNOEXCEPTION
+* Coverage of criterion METHODNOEXCEPTION: 0%
+* Total number of goals: 30
+* Number of covered goals: 0
+* Coverage analysis for criterion CBRANCH
+* Coverage of criterion CBRANCH: 1%
+* Total number of goals: 187
+* Number of covered goals: 1
+* Generated 3 tests with total length 4
+* Resulting test suite's coverage: 15% (average coverage for all fitness functions)
+* Generating assertions
+* Resulting test suite's mutation score: 0%
+* Compiling and checking tests
+* Permissions denied during test execution: 
+  - java.lang.RuntimePermission: 
+         writeFileDescriptor: 2
+* Writing JUnit test case 'IcsListPopupWindow_ESTest' to C:\Users\Thiago\Documents\Calculadora\Calculadora-de-Tributos-PJ\ActionBarSherlock-Library\.evosuite\tmp_2018_11_05_18_47_09\tests
+* Done!
+

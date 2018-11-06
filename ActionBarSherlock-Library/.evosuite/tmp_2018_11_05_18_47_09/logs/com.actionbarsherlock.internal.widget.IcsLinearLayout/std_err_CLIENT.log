@@ -1,0 +1,11 @@
+[MASTER] 19:52:16.486 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for android.widget.ArrayAdapter<T> : Type points to itself
+[MASTER] 19:52:29.611 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.Map<K, V> : Type points to itself
+[MASTER] 19:52:29.627 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.List<E> : Type points to itself
+[MASTER] 19:52:46.697 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.Enumeration<E> : Type points to itself
+[MASTER] 19:54:06.615 [pool-2-thread-1] ERROR ClassStateSupport - Could not initialize com.actionbarsherlock.internal.widget.ScrollingTabContainerView: null
+[MASTER] 19:54:06.630 [pool-2-thread-1] ERROR ClassStateSupport - Could not initialize com.actionbarsherlock.internal.widget.ActionBarContextView: null
+[MASTER] 19:54:06.724 [pool-2-thread-1] ERROR ClassStateSupport - Could not initialize com.actionbarsherlock.internal.nineoldandroids.animation.ObjectAnimator: null
+[MASTER] 19:54:06.740 [pool-2-thread-1] ERROR ClassStateSupport - Could not initialize com.actionbarsherlock.internal.nineoldandroids.animation.ValueAnimator: Could not initialize class com.actionbarsherlock.internal.nineoldandroids.animation.ValueAnimator
+[MASTER] 19:54:06.740 [pool-2-thread-1] ERROR ClassStateSupport - Could not initialize com.actionbarsherlock.internal.widget.AbsActionBarView: Could not initialize class com.actionbarsherlock.internal.widget.AbsActionBarView
+[MASTER] 19:54:06.787 [pool-2-thread-1] ERROR ClassStateSupport - Could not initialize com.actionbarsherlock.internal.widget.ActionBarView: com.actionbarsherlock.internal.widget.AbsActionBarView
+[MASTER] 19:54:06.974 [pool-2-thread-1] ERROR ClassResetter - java.lang.NoClassDefFoundError: Could not initialize class com.actionbarsherlock.internal.widget.AbsActionBarView

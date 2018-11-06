@@ -1,0 +1,83 @@
+[MASTER] 20:54:26.534 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.Map<K, V> : Type points to itself
+[MASTER] 20:54:26.534 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.List<E> : Type points to itself
+[MASTER] 20:54:38.043 [TEST_EXECUTION_THREAD_0] ERROR FunctionalMockStatement - Failed to use Mockito on class com.actionbarsherlock.internal.widget.ActionBarContextView: null
+[MASTER] 20:54:38.090 [pool-2-thread-1] ERROR TestCaseExecutor - ExecutionException (this is likely a serious error in the framework)
+java.util.concurrent.ExecutionException: org.evosuite.testcase.execution.EvosuiteError: java.lang.ExceptionInInitializerError
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) [na:1.8.0_181]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:206) [na:1.8.0_181]
+	at org.evosuite.testcase.execution.TimeoutHandler.executeWithTimeout(TimeoutHandler.java:107) ~[evosuite-1.0.6.jar:1.0.6]
+	at org.evosuite.testcase.execution.TimeoutHandler.execute(TimeoutHandler.java:96) ~[evosuite-1.0.6.jar:1.0.6]
+	at org.evosuite.testcase.execution.TestCaseExecutor.execute(TestCaseExecutor.java:334) [evosuite-1.0.6.jar:1.0.6]
+	at org.evosuite.testcase.execution.TestCaseExecutor.execute(TestCaseExecutor.java:277) [evosuite-1.0.6.jar:1.0.6]
+	at org.evosuite.testcase.execution.TestCaseExecutor.execute(TestCaseExecutor.java:264) [evosuite-1.0.6.jar:1.0.6]
+	at org.evosuite.testsuite.TestSuiteFitnessFunction.runTest(TestSuiteFitnessFunction.java:63) [evosuite-1.0.6.jar:1.0.6]
+	at org.evosuite.testcase.TestChromosome.executeForFitnessFunction(TestChromosome.java:692) [evosuite-1.0.6.jar:1.0.6]
+	at org.evosuite.testsuite.TestSuiteFitnessFunction.runTestSuite(TestSuiteFitnessFunction.java:97) [evosuite-1.0.6.jar:1.0.6]
+	at org.evosuite.coverage.line.LineCoverageSuiteFitness.getFitness(LineCoverageSuiteFitness.java:157) [evosuite-1.0.6.jar:1.0.6]
+	at org.evosuite.coverage.line.LineCoverageSuiteFitness.getFitness(LineCoverageSuiteFitness.java:45) [evosuite-1.0.6.jar:1.0.6]
+	at org.evosuite.ga.metaheuristics.GeneticAlgorithm.calculateFitnessAndSortPopulation(GeneticAlgorithm.java:579) [evosuite-1.0.6.jar:1.0.6]
+	at org.evosuite.ga.metaheuristics.MonotonicGA.initializePopulation(MonotonicGA.java:206) [evosuite-1.0.6.jar:1.0.6]
+	at org.evosuite.ga.metaheuristics.MonotonicGA.generateSolution(MonotonicGA.java:223) [evosuite-1.0.6.jar:1.0.6]
+	at org.evosuite.strategy.WholeTestSuiteStrategy.generateTests(WholeTestSuiteStrategy.java:113) [evosuite-1.0.6.jar:1.0.6]
+	at org.evosuite.TestSuiteGenerator.generateTests(TestSuiteGenerator.java:653) [evosuite-1.0.6.jar:1.0.6]
+	at org.evosuite.TestSuiteGenerator.generateTestSuite(TestSuiteGenerator.java:236) [evosuite-1.0.6.jar:1.0.6]
+	at org.evosuite.rmi.service.ClientNodeImpl$1.run(ClientNodeImpl.java:145) [evosuite-1.0.6.jar:1.0.6]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [na:1.8.0_181]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [na:1.8.0_181]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [na:1.8.0_181]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [na:1.8.0_181]
+	at java.lang.Thread.run(Thread.java:748) [na:1.8.0_181]
+Caused by: org.evosuite.testcase.execution.EvosuiteError: java.lang.ExceptionInInitializerError
+	at org.evosuite.testcase.statements.FunctionalMockStatement$1.execute(FunctionalMockStatement.java:744) ~[evosuite-1.0.6.jar:1.0.6]
+	at org.evosuite.testcase.statements.AbstractStatement.exceptionHandler(AbstractStatement.java:169) ~[evosuite-1.0.6.jar:1.0.6]
+	at org.evosuite.testcase.statements.FunctionalMockStatement.execute(FunctionalMockStatement.java:596) ~[evosuite-1.0.6.jar:1.0.6]
+	at org.evosuite.testcase.execution.TestRunnable.executeStatements(TestRunnable.java:307) ~[evosuite-1.0.6.jar:1.0.6]
+	at org.evosuite.testcase.execution.TestRunnable.call(TestRunnable.java:213) ~[evosuite-1.0.6.jar:1.0.6]
+	at org.evosuite.testcase.execution.TestRunnable.call(TestRunnable.java:55) ~[evosuite-1.0.6.jar:1.0.6]
+	... 4 common frames omitted
+Caused by: java.lang.ExceptionInInitializerError: null
+	at sun.reflect.GeneratedSerializationConstructorAccessor18.newInstance(Unknown Source) ~[na:na]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423) ~[na:1.8.0_181]
+	at org.evosuite.shaded.org.objenesis.instantiator.sun.SunReflectionFactoryInstantiator.newInstance(SunReflectionFactoryInstantiator.java:48) ~[evosuite-1.0.6.jar:1.0.6]
+	at org.evosuite.shaded.org.objenesis.ObjenesisBase.newInstance(ObjenesisBase.java:73) ~[evosuite-1.0.6.jar:1.0.6]
+	at org.evosuite.shaded.org.mockito.internal.creation.instance.ObjenesisInstantiator.newInstance(ObjenesisInstantiator.java:19) ~[evosuite-1.0.6.jar:1.0.6]
+	at org.evosuite.shaded.org.mockito.internal.creation.bytebuddy.SubclassByteBuddyMockMaker.createMock(SubclassByteBuddyMockMaker.java:47) ~[evosuite-1.0.6.jar:1.0.6]
+	at org.evosuite.shaded.org.mockito.internal.creation.bytebuddy.ByteBuddyMockMaker.createMock(ByteBuddyMockMaker.java:25) ~[evosuite-1.0.6.jar:1.0.6]
+	at org.evosuite.shaded.org.mockito.internal.util.MockUtil.createMock(MockUtil.java:35) ~[evosuite-1.0.6.jar:1.0.6]
+	at org.evosuite.shaded.org.mockito.internal.MockitoCore.mock(MockitoCore.java:65) ~[evosuite-1.0.6.jar:1.0.6]
+	at org.evosuite.shaded.org.mockito.Mockito.mock(Mockito.java:1864) ~[evosuite-1.0.6.jar:1.0.6]
+	at org.evosuite.testcase.statements.FunctionalMockStatement$1.execute(FunctionalMockStatement.java:611) ~[evosuite-1.0.6.jar:1.0.6]
+	... 9 common frames omitted
+Caused by: org.evosuite.runtime.mock.java.lang.MockRuntimeException: Stub!
+	at android.view.animation.DecelerateInterpolator.<init>(DecelerateInterpolator.java:5) ~[android-4.0.1.2.jar:na]
+	at <evosuite>.<evosuite>(<evosuite>) ~[na:na]
+	at <evosuite>.<evosuite>(<evosuite>) ~[na:na]
+[MASTER] 20:54:38.090 [pool-2-thread-1] ERROR ClientNodeImpl - Error when generating tests for: com.actionbarsherlock.view.ActionMode with seed 1541458456296. Configuration id : default
+org.evosuite.testcase.execution.EvosuiteError: java.lang.ExceptionInInitializerError
+	at org.evosuite.testcase.statements.FunctionalMockStatement$1.execute(FunctionalMockStatement.java:744) ~[evosuite-1.0.6.jar:1.0.6]
+	at org.evosuite.testcase.statements.AbstractStatement.exceptionHandler(AbstractStatement.java:169) ~[evosuite-1.0.6.jar:1.0.6]
+	at org.evosuite.testcase.statements.FunctionalMockStatement.execute(FunctionalMockStatement.java:596) ~[evosuite-1.0.6.jar:1.0.6]
+	at org.evosuite.testcase.execution.TestRunnable.executeStatements(TestRunnable.java:307) ~[evosuite-1.0.6.jar:1.0.6]
+	at org.evosuite.testcase.execution.TestRunnable.call(TestRunnable.java:213) ~[evosuite-1.0.6.jar:1.0.6]
+	at org.evosuite.testcase.execution.TestRunnable.call(TestRunnable.java:55) ~[evosuite-1.0.6.jar:1.0.6]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [na:1.8.0_181]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [na:1.8.0_181]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [na:1.8.0_181]
+	at java.lang.Thread.run(Thread.java:748) [na:1.8.0_181]
+Caused by: java.lang.ExceptionInInitializerError: null
+	at sun.reflect.GeneratedSerializationConstructorAccessor18.newInstance(Unknown Source) ~[na:na]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423) ~[na:1.8.0_181]
+	at org.evosuite.shaded.org.objenesis.instantiator.sun.SunReflectionFactoryInstantiator.newInstance(SunReflectionFactoryInstantiator.java:48) ~[evosuite-1.0.6.jar:1.0.6]
+	at org.evosuite.shaded.org.objenesis.ObjenesisBase.newInstance(ObjenesisBase.java:73) ~[evosuite-1.0.6.jar:1.0.6]
+	at org.evosuite.shaded.org.mockito.internal.creation.instance.ObjenesisInstantiator.newInstance(ObjenesisInstantiator.java:19) ~[evosuite-1.0.6.jar:1.0.6]
+	at org.evosuite.shaded.org.mockito.internal.creation.bytebuddy.SubclassByteBuddyMockMaker.createMock(SubclassByteBuddyMockMaker.java:47) ~[evosuite-1.0.6.jar:1.0.6]
+	at org.evosuite.shaded.org.mockito.internal.creation.bytebuddy.ByteBuddyMockMaker.createMock(ByteBuddyMockMaker.java:25) ~[evosuite-1.0.6.jar:1.0.6]
+	at org.evosuite.shaded.org.mockito.internal.util.MockUtil.createMock(MockUtil.java:35) ~[evosuite-1.0.6.jar:1.0.6]
+	at org.evosuite.shaded.org.mockito.internal.MockitoCore.mock(MockitoCore.java:65) ~[evosuite-1.0.6.jar:1.0.6]
+	at org.evosuite.shaded.org.mockito.Mockito.mock(Mockito.java:1864) ~[evosuite-1.0.6.jar:1.0.6]
+	at org.evosuite.testcase.statements.FunctionalMockStatement$1.execute(FunctionalMockStatement.java:611) ~[evosuite-1.0.6.jar:1.0.6]
+	... 9 common frames omitted
+Caused by: org.evosuite.runtime.mock.java.lang.MockRuntimeException: Stub!
+	at android.view.animation.DecelerateInterpolator.<init>(DecelerateInterpolator.java:5) ~[android-4.0.1.2.jar:na]
+	at <evosuite>.<evosuite>(<evosuite>) ~[na:na]
+	at <evosuite>.<evosuite>(<evosuite>) ~[na:na]

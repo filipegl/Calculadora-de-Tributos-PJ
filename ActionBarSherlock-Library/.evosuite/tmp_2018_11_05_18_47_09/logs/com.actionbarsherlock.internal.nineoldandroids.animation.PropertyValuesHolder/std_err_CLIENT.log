@@ -1,0 +1,4 @@
+[MASTER] 20:09:45.054 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for android.widget.ArrayAdapter<T> : Type points to itself
+[MASTER] 20:09:45.835 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for com.actionbarsherlock.internal.nineoldandroids.animation.TypeEvaluator<T> : Type points to itself
+[MASTER] 20:10:21.331 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.Map<K, V> : Type points to itself
+[MASTER] 20:11:11.952 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.List<E> : Type points to itself

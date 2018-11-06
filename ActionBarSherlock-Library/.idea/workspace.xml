@@ -1,0 +1,1375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0afe3971-0029-4c67-88e7-5c2e961acae2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/android/support/v4/app/_ActionBarSherlockTrojanHorse_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/android/support/v4/app/_ActionBarSherlockTrojanHorse_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/ActionBarSherlock_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/ActionBarSherlock_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/BuildConfig_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/BuildConfig_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/R_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/R_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/app/ActionBar_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/app/ActionBar_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/app/SherlockActivity_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/app/SherlockActivity_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/app/SherlockDialogFragment_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/app/SherlockDialogFragment_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/app/SherlockExpandableListActivity_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/app/SherlockExpandableListActivity_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/app/SherlockFragmentActivity_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/app/SherlockFragmentActivity_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/app/SherlockFragment_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/app/SherlockFragment_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/app/SherlockListActivity_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/app/SherlockListActivity_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/app/SherlockListFragment_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/app/SherlockListFragment_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/app/SherlockPreferenceActivity_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/app/SherlockPreferenceActivity_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/ActionBarSherlockCompat_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/ActionBarSherlockCompat_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/ActionBarSherlockNative_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/ActionBarSherlockNative_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/ResourcesCompat_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/ResourcesCompat_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/app/ActionBarImpl_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/app/ActionBarImpl_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/app/ActionBarWrapper_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/app/ActionBarWrapper_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/nineoldandroids/animation/AnimatorListenerAdapter_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/nineoldandroids/animation/AnimatorListenerAdapter_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/nineoldandroids/animation/AnimatorSet_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/nineoldandroids/animation/AnimatorSet_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/nineoldandroids/animation/Animator_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/nineoldandroids/animation/Animator_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/nineoldandroids/animation/FloatEvaluator_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/nineoldandroids/animation/FloatEvaluator_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/nineoldandroids/animation/FloatKeyframeSet_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/nineoldandroids/animation/FloatKeyframeSet_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/nineoldandroids/animation/IntEvaluator_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/nineoldandroids/animation/IntEvaluator_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/nineoldandroids/animation/IntKeyframeSet_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/nineoldandroids/animation/IntKeyframeSet_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/nineoldandroids/animation/KeyframeSet_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/nineoldandroids/animation/KeyframeSet_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/nineoldandroids/animation/Keyframe_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/nineoldandroids/animation/Keyframe_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/nineoldandroids/animation/PropertyValuesHolder_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/nineoldandroids/animation/PropertyValuesHolder_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/nineoldandroids/view/NineViewGroup_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/nineoldandroids/view/NineViewGroup_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/nineoldandroids/view/animation/AnimatorProxy_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/nineoldandroids/view/animation/AnimatorProxy_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/nineoldandroids/widget/NineFrameLayout_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/nineoldandroids/widget/NineFrameLayout_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/nineoldandroids/widget/NineHorizontalScrollView_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/nineoldandroids/widget/NineHorizontalScrollView_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/nineoldandroids/widget/NineLinearLayout_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/nineoldandroids/widget/NineLinearLayout_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/view/ActionProviderWrapper_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/view/ActionProviderWrapper_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/view/menu/ActionMenuItemView_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/view/menu/ActionMenuItemView_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/view/menu/ActionMenuPresenter_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/view/menu/ActionMenuPresenter_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/view/menu/ActionMenu_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/view/menu/ActionMenu_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/view/menu/BaseMenuPresenter_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/view/menu/BaseMenuPresenter_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/view/menu/ListMenuItemView_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/view/menu/ListMenuItemView_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/view/menu/MenuBuilder_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/view/menu/MenuBuilder_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/view/menu/MenuItemImpl_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/view/menu/MenuItemImpl_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/view/menu/MenuItemWrapper_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/view/menu/MenuItemWrapper_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/view/menu/MenuPopupHelper_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/view/menu/MenuPopupHelper_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/view/menu/MenuWrapper_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/view/menu/MenuWrapper_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/view/menu/SubMenuBuilder_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/view/menu/SubMenuBuilder_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/view/menu/SubMenuWrapper_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/view/menu/SubMenuWrapper_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/widget/ActionBarContainer_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/widget/ActionBarContainer_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/widget/CapitalizingButton_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/widget/CapitalizingButton_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/widget/CapitalizingTextView_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/widget/CapitalizingTextView_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/widget/FakeDialogPhoneWindow_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/widget/FakeDialogPhoneWindow_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/widget/IcsLinearLayout_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/widget/IcsLinearLayout_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/widget/IcsListPopupWindow_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/widget/IcsListPopupWindow_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/widget/IcsProgressBar_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/widget/IcsProgressBar_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/widget/IcsView_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/internal/widget/IcsView_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/view/ActionProvider_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/view/ActionProvider_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/view/MenuInflater_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/view/MenuInflater_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/widget/ActivityChooserModel_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/widget/ActivityChooserModel_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/widget/ActivityChooserView_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/widget/ActivityChooserView_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/widget/ShareActionProvider_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/best-tests/com/actionbarsherlock/widget/ShareActionProvider_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/evosuite-seeds/android.support.v4.app._ActionBarSherlockTrojanHorse.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/evosuite-seeds/com.actionbarsherlock.ActionBarSherlock.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/evosuite-seeds/com.actionbarsherlock.BuildConfig.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/evosuite-seeds/com.actionbarsherlock.R.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/evosuite-seeds/com.actionbarsherlock.app.ActionBar.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/evosuite-seeds/com.actionbarsherlock.app.SherlockActivity.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/evosuite-seeds/com.actionbarsherlock.app.SherlockDialogFragment.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/evosuite-seeds/com.actionbarsherlock.app.SherlockExpandableListActivity.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/evosuite-seeds/com.actionbarsherlock.app.SherlockFragment.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/evosuite-seeds/com.actionbarsherlock.app.SherlockFragmentActivity.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/evosuite-seeds/com.actionbarsherlock.app.SherlockListActivity.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/evosuite-seeds/com.actionbarsherlock.app.SherlockListFragment.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/evosuite-seeds/com.actionbarsherlock.app.SherlockPreferenceActivity.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/evosuite-seeds/com.actionbarsherlock.internal.ActionBarSherlockCompat.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/evosuite-seeds/com.actionbarsherlock.internal.ActionBarSherlockNative.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/evosuite-seeds/com.actionbarsherlock.internal.ResourcesCompat.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/evosuite-seeds/com.actionbarsherlock.internal.app.ActionBarImpl.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/evosuite-seeds/com.actionbarsherlock.internal.app.ActionBarWrapper.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/evosuite-seeds/com.actionbarsherlock.internal.nineoldandroids.animation.Animator.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/evosuite-seeds/com.actionbarsherlock.internal.nineoldandroids.animation.AnimatorListenerAdapter.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/evosuite-seeds/com.actionbarsherlock.internal.nineoldandroids.animation.AnimatorSet.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/evosuite-seeds/com.actionbarsherlock.internal.nineoldandroids.animation.FloatEvaluator.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/evosuite-seeds/com.actionbarsherlock.internal.nineoldandroids.animation.FloatKeyframeSet.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/evosuite-seeds/com.actionbarsherlock.internal.nineoldandroids.animation.IntEvaluator.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/evosuite-seeds/com.actionbarsherlock.internal.nineoldandroids.animation.IntKeyframeSet.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/evosuite-seeds/com.actionbarsherlock.internal.nineoldandroids.animation.Keyframe.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/evosuite-seeds/com.actionbarsherlock.internal.nineoldandroids.animation.KeyframeSet.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/evosuite-seeds/com.actionbarsherlock.internal.nineoldandroids.animation.PropertyValuesHolder.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/evosuite-seeds/com.actionbarsherlock.internal.nineoldandroids.view.NineViewGroup.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/evosuite-seeds/com.actionbarsherlock.internal.nineoldandroids.view.animation.AnimatorProxy.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/evosuite-seeds/com.actionbarsherlock.internal.nineoldandroids.widget.NineFrameLayout.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/evosuite-seeds/com.actionbarsherlock.internal.nineoldandroids.widget.NineHorizontalScrollView.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/evosuite-seeds/com.actionbarsherlock.internal.nineoldandroids.widget.NineLinearLayout.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/evosuite-seeds/com.actionbarsherlock.internal.view.ActionProviderWrapper.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/evosuite-seeds/com.actionbarsherlock.internal.view.menu.ActionMenu.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/evosuite-seeds/com.actionbarsherlock.internal.view.menu.ActionMenuItemView.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/evosuite-seeds/com.actionbarsherlock.internal.view.menu.ActionMenuPresenter.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/evosuite-seeds/com.actionbarsherlock.internal.view.menu.BaseMenuPresenter.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/evosuite-seeds/com.actionbarsherlock.internal.view.menu.ListMenuItemView.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/evosuite-seeds/com.actionbarsherlock.internal.view.menu.MenuBuilder.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/evosuite-seeds/com.actionbarsherlock.internal.view.menu.MenuItemImpl.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/evosuite-seeds/com.actionbarsherlock.internal.view.menu.MenuItemWrapper.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/evosuite-seeds/com.actionbarsherlock.internal.view.menu.MenuPopupHelper.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/evosuite-seeds/com.actionbarsherlock.internal.view.menu.MenuWrapper.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/evosuite-seeds/com.actionbarsherlock.internal.view.menu.SubMenuBuilder.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/evosuite-seeds/com.actionbarsherlock.internal.view.menu.SubMenuWrapper.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/evosuite-seeds/com.actionbarsherlock.internal.widget.ActionBarContainer.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/evosuite-seeds/com.actionbarsherlock.internal.widget.CapitalizingButton.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/evosuite-seeds/com.actionbarsherlock.internal.widget.CapitalizingTextView.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/evosuite-seeds/com.actionbarsherlock.internal.widget.FakeDialogPhoneWindow.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/evosuite-seeds/com.actionbarsherlock.internal.widget.IcsLinearLayout.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/evosuite-seeds/com.actionbarsherlock.internal.widget.IcsListPopupWindow.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/evosuite-seeds/com.actionbarsherlock.internal.widget.IcsProgressBar.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/evosuite-seeds/com.actionbarsherlock.internal.widget.IcsView.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/evosuite-seeds/com.actionbarsherlock.view.ActionProvider.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/evosuite-seeds/com.actionbarsherlock.view.MenuInflater.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/evosuite-seeds/com.actionbarsherlock.widget.ActivityChooserModel.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/evosuite-seeds/com.actionbarsherlock.widget.ActivityChooserView.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/evosuite-seeds/com.actionbarsherlock.widget.ShareActionProvider.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/project_info.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/android.support.v4.app._ActionBarSherlockTrojanHorse/std_err_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/android.support.v4.app._ActionBarSherlockTrojanHorse/std_err_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/android.support.v4.app._ActionBarSherlockTrojanHorse/std_out_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/android.support.v4.app._ActionBarSherlockTrojanHorse/std_out_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.ActionBarSherlock/std_err_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.ActionBarSherlock/std_err_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.ActionBarSherlock/std_out_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.ActionBarSherlock/std_out_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.BuildConfig/std_err_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.BuildConfig/std_err_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.BuildConfig/std_out_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.BuildConfig/std_out_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.R/std_err_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.R/std_err_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.R/std_out_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.R/std_out_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.app.ActionBar/std_err_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.app.ActionBar/std_err_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.app.ActionBar/std_out_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.app.ActionBar/std_out_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.app.SherlockActivity/std_err_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.app.SherlockActivity/std_err_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.app.SherlockActivity/std_out_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.app.SherlockActivity/std_out_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.app.SherlockDialogFragment/std_err_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.app.SherlockDialogFragment/std_err_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.app.SherlockDialogFragment/std_out_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.app.SherlockDialogFragment/std_out_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.app.SherlockExpandableListActivity/std_err_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.app.SherlockExpandableListActivity/std_err_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.app.SherlockExpandableListActivity/std_out_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.app.SherlockExpandableListActivity/std_out_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.app.SherlockFragment/std_err_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.app.SherlockFragment/std_err_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.app.SherlockFragment/std_out_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.app.SherlockFragment/std_out_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.app.SherlockFragmentActivity/std_err_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.app.SherlockFragmentActivity/std_err_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.app.SherlockFragmentActivity/std_out_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.app.SherlockFragmentActivity/std_out_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.app.SherlockListActivity/std_err_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.app.SherlockListActivity/std_err_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.app.SherlockListActivity/std_out_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.app.SherlockListActivity/std_out_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.app.SherlockListFragment/std_err_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.app.SherlockListFragment/std_err_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.app.SherlockListFragment/std_out_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.app.SherlockListFragment/std_out_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.app.SherlockPreferenceActivity/std_err_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.app.SherlockPreferenceActivity/std_err_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.app.SherlockPreferenceActivity/std_out_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.app.SherlockPreferenceActivity/std_out_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.ActionBarSherlockCompat/std_err_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.ActionBarSherlockCompat/std_err_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.ActionBarSherlockCompat/std_out_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.ActionBarSherlockCompat/std_out_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.ActionBarSherlockNative/std_err_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.ActionBarSherlockNative/std_err_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.ActionBarSherlockNative/std_out_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.ActionBarSherlockNative/std_out_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.ResourcesCompat/std_err_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.ResourcesCompat/std_err_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.ResourcesCompat/std_out_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.ResourcesCompat/std_out_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.app.ActionBarImpl/std_err_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.app.ActionBarImpl/std_err_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.app.ActionBarImpl/std_out_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.app.ActionBarImpl/std_out_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.app.ActionBarWrapper/std_err_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.app.ActionBarWrapper/std_err_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.app.ActionBarWrapper/std_out_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.app.ActionBarWrapper/std_out_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.nineoldandroids.animation.Animator/std_err_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.nineoldandroids.animation.Animator/std_err_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.nineoldandroids.animation.Animator/std_out_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.nineoldandroids.animation.Animator/std_out_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.nineoldandroids.animation.AnimatorListenerAdapter/std_err_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.nineoldandroids.animation.AnimatorListenerAdapter/std_err_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.nineoldandroids.animation.AnimatorListenerAdapter/std_out_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.nineoldandroids.animation.AnimatorListenerAdapter/std_out_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.nineoldandroids.animation.AnimatorSet/std_err_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.nineoldandroids.animation.AnimatorSet/std_err_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.nineoldandroids.animation.AnimatorSet/std_out_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.nineoldandroids.animation.AnimatorSet/std_out_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.nineoldandroids.animation.FloatEvaluator/std_err_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.nineoldandroids.animation.FloatEvaluator/std_err_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.nineoldandroids.animation.FloatEvaluator/std_out_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.nineoldandroids.animation.FloatEvaluator/std_out_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.nineoldandroids.animation.FloatKeyframeSet/std_err_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.nineoldandroids.animation.FloatKeyframeSet/std_err_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.nineoldandroids.animation.FloatKeyframeSet/std_out_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.nineoldandroids.animation.FloatKeyframeSet/std_out_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.nineoldandroids.animation.IntEvaluator/std_err_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.nineoldandroids.animation.IntEvaluator/std_err_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.nineoldandroids.animation.IntEvaluator/std_out_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.nineoldandroids.animation.IntEvaluator/std_out_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.nineoldandroids.animation.IntKeyframeSet/std_err_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.nineoldandroids.animation.IntKeyframeSet/std_err_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.nineoldandroids.animation.IntKeyframeSet/std_out_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.nineoldandroids.animation.IntKeyframeSet/std_out_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.nineoldandroids.animation.Keyframe/std_err_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.nineoldandroids.animation.Keyframe/std_err_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.nineoldandroids.animation.Keyframe/std_out_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.nineoldandroids.animation.Keyframe/std_out_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.nineoldandroids.animation.KeyframeSet/std_err_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.nineoldandroids.animation.KeyframeSet/std_err_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.nineoldandroids.animation.KeyframeSet/std_out_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.nineoldandroids.animation.KeyframeSet/std_out_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.nineoldandroids.animation.PropertyValuesHolder/std_err_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.nineoldandroids.animation.PropertyValuesHolder/std_err_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.nineoldandroids.animation.PropertyValuesHolder/std_out_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.nineoldandroids.animation.PropertyValuesHolder/std_out_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.nineoldandroids.view.NineViewGroup/std_err_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.nineoldandroids.view.NineViewGroup/std_err_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.nineoldandroids.view.NineViewGroup/std_out_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.nineoldandroids.view.NineViewGroup/std_out_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.nineoldandroids.view.animation.AnimatorProxy/std_err_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.nineoldandroids.view.animation.AnimatorProxy/std_err_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.nineoldandroids.view.animation.AnimatorProxy/std_out_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.nineoldandroids.view.animation.AnimatorProxy/std_out_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.nineoldandroids.widget.NineFrameLayout/std_err_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.nineoldandroids.widget.NineFrameLayout/std_err_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.nineoldandroids.widget.NineFrameLayout/std_out_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.nineoldandroids.widget.NineFrameLayout/std_out_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.nineoldandroids.widget.NineHorizontalScrollView/std_err_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.nineoldandroids.widget.NineHorizontalScrollView/std_err_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.nineoldandroids.widget.NineHorizontalScrollView/std_out_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.nineoldandroids.widget.NineHorizontalScrollView/std_out_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.nineoldandroids.widget.NineLinearLayout/std_err_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.nineoldandroids.widget.NineLinearLayout/std_err_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.nineoldandroids.widget.NineLinearLayout/std_out_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.nineoldandroids.widget.NineLinearLayout/std_out_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.view.ActionProviderWrapper/std_err_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.view.ActionProviderWrapper/std_err_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.view.ActionProviderWrapper/std_out_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.view.ActionProviderWrapper/std_out_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.view.StandaloneActionMode/std_err_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.view.StandaloneActionMode/std_err_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.view.StandaloneActionMode/std_out_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.view.StandaloneActionMode/std_out_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.view.menu.ActionMenu/std_err_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.view.menu.ActionMenu/std_err_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.view.menu.ActionMenu/std_out_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.view.menu.ActionMenu/std_out_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.view.menu.ActionMenuItem/std_err_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.view.menu.ActionMenuItem/std_err_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.view.menu.ActionMenuItem/std_out_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.view.menu.ActionMenuItem/std_out_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.view.menu.ActionMenuItemView/std_err_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.view.menu.ActionMenuItemView/std_err_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.view.menu.ActionMenuItemView/std_out_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.view.menu.ActionMenuItemView/std_out_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.view.menu.ActionMenuPresenter/std_err_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.view.menu.ActionMenuPresenter/std_err_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.view.menu.ActionMenuPresenter/std_out_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.view.menu.ActionMenuPresenter/std_out_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.view.menu.BaseMenuPresenter/std_err_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.view.menu.BaseMenuPresenter/std_err_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.view.menu.BaseMenuPresenter/std_out_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.view.menu.BaseMenuPresenter/std_out_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.view.menu.ListMenuItemView/std_err_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.view.menu.ListMenuItemView/std_err_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.view.menu.ListMenuItemView/std_out_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.view.menu.ListMenuItemView/std_out_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.view.menu.MenuBuilder/std_err_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.view.menu.MenuBuilder/std_err_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.view.menu.MenuBuilder/std_out_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.view.menu.MenuBuilder/std_out_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.view.menu.MenuItemImpl/std_err_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.view.menu.MenuItemImpl/std_err_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.view.menu.MenuItemImpl/std_out_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.view.menu.MenuItemImpl/std_out_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.view.menu.MenuItemWrapper/std_err_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.view.menu.MenuItemWrapper/std_err_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.view.menu.MenuItemWrapper/std_out_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.view.menu.MenuItemWrapper/std_out_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.view.menu.MenuPopupHelper/std_err_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.view.menu.MenuPopupHelper/std_err_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.view.menu.MenuPopupHelper/std_out_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.view.menu.MenuPopupHelper/std_out_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.view.menu.MenuWrapper/std_err_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.view.menu.MenuWrapper/std_err_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.view.menu.MenuWrapper/std_out_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.view.menu.MenuWrapper/std_out_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.view.menu.SubMenuBuilder/std_err_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.view.menu.SubMenuBuilder/std_err_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.view.menu.SubMenuBuilder/std_out_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.view.menu.SubMenuBuilder/std_out_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.view.menu.SubMenuWrapper/std_err_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.view.menu.SubMenuWrapper/std_err_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.view.menu.SubMenuWrapper/std_out_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.view.menu.SubMenuWrapper/std_out_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.widget.ActionBarContainer/std_err_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.widget.ActionBarContainer/std_err_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.widget.ActionBarContainer/std_out_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.widget.ActionBarContainer/std_out_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.widget.CapitalizingButton/std_err_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.widget.CapitalizingButton/std_err_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.widget.CapitalizingButton/std_out_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.widget.CapitalizingButton/std_out_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.widget.CapitalizingTextView/std_err_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.widget.CapitalizingTextView/std_err_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.widget.CapitalizingTextView/std_out_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.widget.CapitalizingTextView/std_out_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.widget.FakeDialogPhoneWindow/std_err_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.widget.FakeDialogPhoneWindow/std_err_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.widget.FakeDialogPhoneWindow/std_out_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.widget.FakeDialogPhoneWindow/std_out_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.widget.IcsAdapterView/std_err_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.widget.IcsAdapterView/std_err_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.widget.IcsAdapterView/std_out_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.widget.IcsAdapterView/std_out_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.widget.IcsLinearLayout/std_err_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.widget.IcsLinearLayout/std_err_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.widget.IcsLinearLayout/std_out_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.widget.IcsLinearLayout/std_out_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.widget.IcsListPopupWindow/std_err_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.widget.IcsListPopupWindow/std_err_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.widget.IcsListPopupWindow/std_out_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.widget.IcsListPopupWindow/std_out_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.widget.IcsProgressBar/std_err_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.widget.IcsProgressBar/std_err_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.widget.IcsProgressBar/std_out_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.widget.IcsProgressBar/std_out_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.widget.IcsSpinner/std_err_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.widget.IcsSpinner/std_err_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.widget.IcsSpinner/std_out_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.widget.IcsSpinner/std_out_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.widget.IcsView/std_err_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.widget.IcsView/std_err_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.widget.IcsView/std_out_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.internal.widget.IcsView/std_out_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.view.ActionMode/std_err_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.view.ActionMode/std_err_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.view.ActionMode/std_out_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.view.ActionMode/std_out_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.view.ActionProvider/std_err_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.view.ActionProvider/std_err_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.view.ActionProvider/std_out_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.view.ActionProvider/std_out_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.view.MenuInflater/std_err_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.view.MenuInflater/std_err_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.view.MenuInflater/std_out_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.view.MenuInflater/std_out_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.widget.ActivityChooserModel/std_err_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.widget.ActivityChooserModel/std_err_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.widget.ActivityChooserModel/std_out_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.widget.ActivityChooserModel/std_out_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.widget.ActivityChooserView/std_err_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.widget.ActivityChooserView/std_err_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.widget.ActivityChooserView/std_out_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.widget.ActivityChooserView/std_out_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.widget.ShareActionProvider/std_err_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.widget.ShareActionProvider/std_err_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.widget.ShareActionProvider/std_out_CLIENT.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/logs/com.actionbarsherlock.widget.ShareActionProvider/std_out_MASTER.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/pools/android.support.v4.app._ActionBarSherlockTrojanHorse.pool" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/pools/com.actionbarsherlock.ActionBarSherlock.pool" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/pools/com.actionbarsherlock.BuildConfig.pool" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/pools/com.actionbarsherlock.R.pool" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/pools/com.actionbarsherlock.app.ActionBar.pool" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/pools/com.actionbarsherlock.app.SherlockActivity.pool" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/pools/com.actionbarsherlock.app.SherlockDialogFragment.pool" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/pools/com.actionbarsherlock.app.SherlockExpandableListActivity.pool" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/pools/com.actionbarsherlock.app.SherlockFragment.pool" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/pools/com.actionbarsherlock.app.SherlockFragmentActivity.pool" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/pools/com.actionbarsherlock.app.SherlockListActivity.pool" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/pools/com.actionbarsherlock.app.SherlockListFragment.pool" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/pools/com.actionbarsherlock.app.SherlockPreferenceActivity.pool" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/pools/com.actionbarsherlock.internal.ActionBarSherlockCompat.pool" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/pools/com.actionbarsherlock.internal.ActionBarSherlockNative.pool" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/pools/com.actionbarsherlock.internal.ResourcesCompat.pool" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/pools/com.actionbarsherlock.internal.app.ActionBarImpl.pool" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/pools/com.actionbarsherlock.internal.app.ActionBarWrapper.pool" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/pools/com.actionbarsherlock.internal.nineoldandroids.animation.Animator.pool" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/pools/com.actionbarsherlock.internal.nineoldandroids.animation.AnimatorListenerAdapter.pool" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/pools/com.actionbarsherlock.internal.nineoldandroids.animation.AnimatorSet.pool" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/pools/com.actionbarsherlock.internal.nineoldandroids.animation.FloatEvaluator.pool" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/pools/com.actionbarsherlock.internal.nineoldandroids.animation.FloatKeyframeSet.pool" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/pools/com.actionbarsherlock.internal.nineoldandroids.animation.IntEvaluator.pool" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/pools/com.actionbarsherlock.internal.nineoldandroids.animation.IntKeyframeSet.pool" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/pools/com.actionbarsherlock.internal.nineoldandroids.animation.Keyframe.pool" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/pools/com.actionbarsherlock.internal.nineoldandroids.animation.KeyframeSet.pool" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/pools/com.actionbarsherlock.internal.nineoldandroids.animation.PropertyValuesHolder.pool" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/pools/com.actionbarsherlock.internal.nineoldandroids.view.NineViewGroup.pool" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/pools/com.actionbarsherlock.internal.nineoldandroids.view.animation.AnimatorProxy.pool" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/pools/com.actionbarsherlock.internal.nineoldandroids.widget.NineFrameLayout.pool" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/pools/com.actionbarsherlock.internal.nineoldandroids.widget.NineHorizontalScrollView.pool" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/pools/com.actionbarsherlock.internal.nineoldandroids.widget.NineLinearLayout.pool" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/pools/com.actionbarsherlock.internal.view.ActionProviderWrapper.pool" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/pools/com.actionbarsherlock.internal.view.menu.ActionMenu.pool" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/pools/com.actionbarsherlock.internal.view.menu.ActionMenuItemView.pool" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/pools/com.actionbarsherlock.internal.view.menu.ActionMenuPresenter.pool" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/pools/com.actionbarsherlock.internal.view.menu.BaseMenuPresenter.pool" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/pools/com.actionbarsherlock.internal.view.menu.ListMenuItemView.pool" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/pools/com.actionbarsherlock.internal.view.menu.MenuBuilder.pool" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/pools/com.actionbarsherlock.internal.view.menu.MenuItemImpl.pool" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/pools/com.actionbarsherlock.internal.view.menu.MenuItemWrapper.pool" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/pools/com.actionbarsherlock.internal.view.menu.MenuPopupHelper.pool" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/pools/com.actionbarsherlock.internal.view.menu.MenuWrapper.pool" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/pools/com.actionbarsherlock.internal.view.menu.SubMenuBuilder.pool" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/pools/com.actionbarsherlock.internal.view.menu.SubMenuWrapper.pool" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/pools/com.actionbarsherlock.internal.widget.ActionBarContainer.pool" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/pools/com.actionbarsherlock.internal.widget.CapitalizingButton.pool" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/pools/com.actionbarsherlock.internal.widget.CapitalizingTextView.pool" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/pools/com.actionbarsherlock.internal.widget.FakeDialogPhoneWindow.pool" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/pools/com.actionbarsherlock.internal.widget.IcsAdapterView.pool" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/pools/com.actionbarsherlock.internal.widget.IcsLinearLayout.pool" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/pools/com.actionbarsherlock.internal.widget.IcsListPopupWindow.pool" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/pools/com.actionbarsherlock.internal.widget.IcsProgressBar.pool" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/pools/com.actionbarsherlock.internal.widget.IcsSpinner.pool" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/pools/com.actionbarsherlock.internal.widget.IcsView.pool" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/pools/com.actionbarsherlock.view.ActionProvider.pool" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/pools/com.actionbarsherlock.view.MenuInflater.pool" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/pools/com.actionbarsherlock.widget.ActivityChooserModel.pool" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/pools/com.actionbarsherlock.widget.ActivityChooserView.pool" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/pools/com.actionbarsherlock.widget.ShareActionProvider.pool" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/reports/android.support.v4.app._ActionBarSherlockTrojanHorse/statistics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/reports/com.actionbarsherlock.ActionBarSherlock/statistics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/reports/com.actionbarsherlock.BuildConfig/statistics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/reports/com.actionbarsherlock.R/statistics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/reports/com.actionbarsherlock.app.ActionBar/statistics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/reports/com.actionbarsherlock.app.SherlockActivity/statistics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/reports/com.actionbarsherlock.app.SherlockDialogFragment/statistics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/reports/com.actionbarsherlock.app.SherlockExpandableListActivity/statistics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/reports/com.actionbarsherlock.app.SherlockFragment/statistics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/reports/com.actionbarsherlock.app.SherlockFragmentActivity/statistics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/reports/com.actionbarsherlock.app.SherlockListActivity/statistics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/reports/com.actionbarsherlock.app.SherlockListFragment/statistics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/reports/com.actionbarsherlock.app.SherlockPreferenceActivity/statistics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/reports/com.actionbarsherlock.internal.ActionBarSherlockCompat/statistics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/reports/com.actionbarsherlock.internal.ActionBarSherlockNative/statistics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/reports/com.actionbarsherlock.internal.ResourcesCompat/statistics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/reports/com.actionbarsherlock.internal.app.ActionBarImpl/statistics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/reports/com.actionbarsherlock.internal.app.ActionBarWrapper/statistics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/reports/com.actionbarsherlock.internal.nineoldandroids.animation.Animator/statistics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/reports/com.actionbarsherlock.internal.nineoldandroids.animation.AnimatorListenerAdapter/statistics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/reports/com.actionbarsherlock.internal.nineoldandroids.animation.AnimatorSet/statistics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/reports/com.actionbarsherlock.internal.nineoldandroids.animation.FloatEvaluator/statistics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/reports/com.actionbarsherlock.internal.nineoldandroids.animation.FloatKeyframeSet/statistics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/reports/com.actionbarsherlock.internal.nineoldandroids.animation.IntEvaluator/statistics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/reports/com.actionbarsherlock.internal.nineoldandroids.animation.IntKeyframeSet/statistics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/reports/com.actionbarsherlock.internal.nineoldandroids.animation.Keyframe/statistics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/reports/com.actionbarsherlock.internal.nineoldandroids.animation.KeyframeSet/statistics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/reports/com.actionbarsherlock.internal.nineoldandroids.animation.PropertyValuesHolder/statistics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/reports/com.actionbarsherlock.internal.nineoldandroids.view.NineViewGroup/statistics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/reports/com.actionbarsherlock.internal.nineoldandroids.view.animation.AnimatorProxy/statistics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/reports/com.actionbarsherlock.internal.nineoldandroids.widget.NineFrameLayout/statistics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/reports/com.actionbarsherlock.internal.nineoldandroids.widget.NineHorizontalScrollView/statistics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/reports/com.actionbarsherlock.internal.nineoldandroids.widget.NineLinearLayout/statistics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/reports/com.actionbarsherlock.internal.view.ActionProviderWrapper/statistics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/reports/com.actionbarsherlock.internal.view.menu.ActionMenu/statistics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/reports/com.actionbarsherlock.internal.view.menu.ActionMenuItemView/statistics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/reports/com.actionbarsherlock.internal.view.menu.ActionMenuPresenter/statistics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/reports/com.actionbarsherlock.internal.view.menu.BaseMenuPresenter/statistics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/reports/com.actionbarsherlock.internal.view.menu.ListMenuItemView/statistics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/reports/com.actionbarsherlock.internal.view.menu.MenuBuilder/statistics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/reports/com.actionbarsherlock.internal.view.menu.MenuItemImpl/statistics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/reports/com.actionbarsherlock.internal.view.menu.MenuItemWrapper/statistics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/reports/com.actionbarsherlock.internal.view.menu.MenuPopupHelper/statistics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/reports/com.actionbarsherlock.internal.view.menu.MenuWrapper/statistics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/reports/com.actionbarsherlock.internal.view.menu.SubMenuBuilder/statistics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/reports/com.actionbarsherlock.internal.view.menu.SubMenuWrapper/statistics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/reports/com.actionbarsherlock.internal.widget.ActionBarContainer/statistics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/reports/com.actionbarsherlock.internal.widget.CapitalizingButton/statistics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/reports/com.actionbarsherlock.internal.widget.CapitalizingTextView/statistics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/reports/com.actionbarsherlock.internal.widget.FakeDialogPhoneWindow/statistics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/reports/com.actionbarsherlock.internal.widget.IcsLinearLayout/statistics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/reports/com.actionbarsherlock.internal.widget.IcsListPopupWindow/statistics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/reports/com.actionbarsherlock.internal.widget.IcsProgressBar/statistics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/reports/com.actionbarsherlock.internal.widget.IcsView/statistics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/reports/com.actionbarsherlock.view.ActionProvider/statistics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/reports/com.actionbarsherlock.view.MenuInflater/statistics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/reports/com.actionbarsherlock.widget.ActivityChooserModel/statistics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/reports/com.actionbarsherlock.widget.ActivityChooserView/statistics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/reports/com.actionbarsherlock.widget.ShareActionProvider/statistics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/seeds/android.support.v4.app._ActionBarSherlockTrojanHorse.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/seeds/com.actionbarsherlock.ActionBarSherlock.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/seeds/com.actionbarsherlock.BuildConfig.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/seeds/com.actionbarsherlock.R.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/seeds/com.actionbarsherlock.app.ActionBar.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/seeds/com.actionbarsherlock.app.SherlockActivity.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/seeds/com.actionbarsherlock.app.SherlockDialogFragment.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/seeds/com.actionbarsherlock.app.SherlockExpandableListActivity.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/seeds/com.actionbarsherlock.app.SherlockFragment.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/seeds/com.actionbarsherlock.app.SherlockFragmentActivity.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/seeds/com.actionbarsherlock.app.SherlockListActivity.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/seeds/com.actionbarsherlock.app.SherlockListFragment.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/seeds/com.actionbarsherlock.app.SherlockPreferenceActivity.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/seeds/com.actionbarsherlock.internal.ActionBarSherlockCompat.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/seeds/com.actionbarsherlock.internal.ActionBarSherlockNative.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/seeds/com.actionbarsherlock.internal.ResourcesCompat.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/seeds/com.actionbarsherlock.internal.app.ActionBarImpl.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/seeds/com.actionbarsherlock.internal.app.ActionBarWrapper.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/seeds/com.actionbarsherlock.internal.nineoldandroids.animation.Animator.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/seeds/com.actionbarsherlock.internal.nineoldandroids.animation.AnimatorListenerAdapter.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/seeds/com.actionbarsherlock.internal.nineoldandroids.animation.AnimatorSet.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/seeds/com.actionbarsherlock.internal.nineoldandroids.animation.FloatEvaluator.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/seeds/com.actionbarsherlock.internal.nineoldandroids.animation.FloatKeyframeSet.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/seeds/com.actionbarsherlock.internal.nineoldandroids.animation.IntEvaluator.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/seeds/com.actionbarsherlock.internal.nineoldandroids.animation.IntKeyframeSet.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/seeds/com.actionbarsherlock.internal.nineoldandroids.animation.Keyframe.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/seeds/com.actionbarsherlock.internal.nineoldandroids.animation.KeyframeSet.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/seeds/com.actionbarsherlock.internal.nineoldandroids.animation.PropertyValuesHolder.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/seeds/com.actionbarsherlock.internal.nineoldandroids.view.NineViewGroup.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/seeds/com.actionbarsherlock.internal.nineoldandroids.view.animation.AnimatorProxy.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/seeds/com.actionbarsherlock.internal.nineoldandroids.widget.NineFrameLayout.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/seeds/com.actionbarsherlock.internal.nineoldandroids.widget.NineHorizontalScrollView.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/seeds/com.actionbarsherlock.internal.nineoldandroids.widget.NineLinearLayout.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/seeds/com.actionbarsherlock.internal.view.ActionProviderWrapper.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/seeds/com.actionbarsherlock.internal.view.menu.ActionMenu.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/seeds/com.actionbarsherlock.internal.view.menu.ActionMenuItemView.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/seeds/com.actionbarsherlock.internal.view.menu.ActionMenuPresenter.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/seeds/com.actionbarsherlock.internal.view.menu.BaseMenuPresenter.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/seeds/com.actionbarsherlock.internal.view.menu.ListMenuItemView.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/seeds/com.actionbarsherlock.internal.view.menu.MenuBuilder.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/seeds/com.actionbarsherlock.internal.view.menu.MenuItemImpl.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/seeds/com.actionbarsherlock.internal.view.menu.MenuItemWrapper.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/seeds/com.actionbarsherlock.internal.view.menu.MenuPopupHelper.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/seeds/com.actionbarsherlock.internal.view.menu.MenuWrapper.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/seeds/com.actionbarsherlock.internal.view.menu.SubMenuBuilder.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/seeds/com.actionbarsherlock.internal.view.menu.SubMenuWrapper.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/seeds/com.actionbarsherlock.internal.widget.ActionBarContainer.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/seeds/com.actionbarsherlock.internal.widget.CapitalizingButton.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/seeds/com.actionbarsherlock.internal.widget.CapitalizingTextView.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/seeds/com.actionbarsherlock.internal.widget.FakeDialogPhoneWindow.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/seeds/com.actionbarsherlock.internal.widget.IcsAdapterView.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/seeds/com.actionbarsherlock.internal.widget.IcsLinearLayout.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/seeds/com.actionbarsherlock.internal.widget.IcsListPopupWindow.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/seeds/com.actionbarsherlock.internal.widget.IcsProgressBar.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/seeds/com.actionbarsherlock.internal.widget.IcsSpinner.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/seeds/com.actionbarsherlock.internal.widget.IcsView.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/seeds/com.actionbarsherlock.view.ActionProvider.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/seeds/com.actionbarsherlock.view.MenuInflater.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/seeds/com.actionbarsherlock.widget.ActivityChooserModel.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/seeds/com.actionbarsherlock.widget.ActivityChooserView.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/seeds/com.actionbarsherlock.widget.ShareActionProvider.seed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/android/support/v4/app/_ActionBarSherlockTrojanHorse_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/android/support/v4/app/_ActionBarSherlockTrojanHorse_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/ActionBarSherlock_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/ActionBarSherlock_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/BuildConfig_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/BuildConfig_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/R_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/R_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/app/ActionBar_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/app/ActionBar_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/app/SherlockActivity_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/app/SherlockActivity_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/app/SherlockDialogFragment_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/app/SherlockDialogFragment_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/app/SherlockExpandableListActivity_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/app/SherlockExpandableListActivity_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/app/SherlockFragmentActivity_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/app/SherlockFragmentActivity_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/app/SherlockFragment_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/app/SherlockFragment_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/app/SherlockListActivity_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/app/SherlockListActivity_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/app/SherlockListFragment_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/app/SherlockListFragment_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/app/SherlockPreferenceActivity_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/app/SherlockPreferenceActivity_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/ActionBarSherlockCompat_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/ActionBarSherlockCompat_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/ActionBarSherlockNative_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/ActionBarSherlockNative_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/ResourcesCompat_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/ResourcesCompat_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/app/ActionBarImpl_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/app/ActionBarImpl_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/app/ActionBarWrapper_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/app/ActionBarWrapper_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/nineoldandroids/animation/AnimatorListenerAdapter_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/nineoldandroids/animation/AnimatorListenerAdapter_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/nineoldandroids/animation/AnimatorSet_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/nineoldandroids/animation/AnimatorSet_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/nineoldandroids/animation/Animator_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/nineoldandroids/animation/Animator_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/nineoldandroids/animation/FloatEvaluator_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/nineoldandroids/animation/FloatEvaluator_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/nineoldandroids/animation/FloatKeyframeSet_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/nineoldandroids/animation/FloatKeyframeSet_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/nineoldandroids/animation/IntEvaluator_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/nineoldandroids/animation/IntEvaluator_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/nineoldandroids/animation/IntKeyframeSet_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/nineoldandroids/animation/IntKeyframeSet_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/nineoldandroids/animation/KeyframeSet_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/nineoldandroids/animation/KeyframeSet_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/nineoldandroids/animation/Keyframe_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/nineoldandroids/animation/Keyframe_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/nineoldandroids/animation/PropertyValuesHolder_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/nineoldandroids/animation/PropertyValuesHolder_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/nineoldandroids/view/NineViewGroup_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/nineoldandroids/view/NineViewGroup_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/nineoldandroids/view/animation/AnimatorProxy_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/nineoldandroids/view/animation/AnimatorProxy_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/nineoldandroids/widget/NineFrameLayout_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/nineoldandroids/widget/NineFrameLayout_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/nineoldandroids/widget/NineHorizontalScrollView_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/nineoldandroids/widget/NineHorizontalScrollView_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/nineoldandroids/widget/NineLinearLayout_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/nineoldandroids/widget/NineLinearLayout_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/view/ActionProviderWrapper_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/view/ActionProviderWrapper_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/view/menu/ActionMenuItemView_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/view/menu/ActionMenuItemView_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/view/menu/ActionMenuPresenter_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/view/menu/ActionMenuPresenter_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/view/menu/ActionMenu_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/view/menu/ActionMenu_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/view/menu/BaseMenuPresenter_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/view/menu/BaseMenuPresenter_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/view/menu/ListMenuItemView_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/view/menu/ListMenuItemView_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/view/menu/MenuBuilder_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/view/menu/MenuBuilder_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/view/menu/MenuItemImpl_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/view/menu/MenuItemImpl_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/view/menu/MenuItemWrapper_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/view/menu/MenuItemWrapper_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/view/menu/MenuPopupHelper_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/view/menu/MenuPopupHelper_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/view/menu/MenuWrapper_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/view/menu/MenuWrapper_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/view/menu/SubMenuBuilder_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/view/menu/SubMenuBuilder_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/view/menu/SubMenuWrapper_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/view/menu/SubMenuWrapper_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/widget/ActionBarContainer_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/widget/ActionBarContainer_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/widget/CapitalizingButton_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/widget/CapitalizingButton_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/widget/CapitalizingTextView_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/widget/CapitalizingTextView_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/widget/FakeDialogPhoneWindow_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/widget/FakeDialogPhoneWindow_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/widget/IcsAdapterView_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/widget/IcsAdapterView_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/widget/IcsLinearLayout_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/widget/IcsLinearLayout_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/widget/IcsListPopupWindow_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/widget/IcsListPopupWindow_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/widget/IcsProgressBar_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/widget/IcsProgressBar_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/widget/IcsSpinner_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/widget/IcsSpinner_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/widget/IcsView_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/internal/widget/IcsView_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/view/ActionProvider_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/view/ActionProvider_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/view/MenuInflater_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/view/MenuInflater_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/widget/ActivityChooserModel_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/widget/ActivityChooserModel_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/widget/ActivityChooserView_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/widget/ActivityChooserView_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/widget/ShareActionProvider_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.evosuite/tmp_2018_11_05_18_47_09/tests/com/actionbarsherlock/widget/ShareActionProvider_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/qaplug_profiles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/android/support/v4/app/_ActionBarSherlockTrojanHorse_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/android/support/v4/app/_ActionBarSherlockTrojanHorse_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/ActionBarSherlock_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/ActionBarSherlock_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/BuildConfig_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/BuildConfig_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/R_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/R_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/app/ActionBar_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/app/ActionBar_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/app/SherlockActivity_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/app/SherlockActivity_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/app/SherlockDialogFragment_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/app/SherlockDialogFragment_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/app/SherlockExpandableListActivity_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/app/SherlockExpandableListActivity_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/app/SherlockFragmentActivity_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/app/SherlockFragmentActivity_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/app/SherlockFragment_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/app/SherlockFragment_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/app/SherlockListActivity_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/app/SherlockListActivity_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/app/SherlockListFragment_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/app/SherlockListFragment_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/app/SherlockPreferenceActivity_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/app/SherlockPreferenceActivity_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/ActionBarSherlockCompat_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/ActionBarSherlockCompat_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/ActionBarSherlockNative_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/ActionBarSherlockNative_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/ResourcesCompat_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/ResourcesCompat_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/app/ActionBarImpl_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/app/ActionBarImpl_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/app/ActionBarWrapper_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/app/ActionBarWrapper_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/nineoldandroids/animation/AnimatorListenerAdapter_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/nineoldandroids/animation/AnimatorListenerAdapter_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/nineoldandroids/animation/AnimatorSet_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/nineoldandroids/animation/AnimatorSet_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/nineoldandroids/animation/Animator_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/nineoldandroids/animation/Animator_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/nineoldandroids/animation/FloatEvaluator_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/nineoldandroids/animation/FloatEvaluator_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/nineoldandroids/animation/FloatKeyframeSet_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/nineoldandroids/animation/FloatKeyframeSet_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/nineoldandroids/animation/IntEvaluator_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/nineoldandroids/animation/IntEvaluator_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/nineoldandroids/animation/IntKeyframeSet_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/nineoldandroids/animation/IntKeyframeSet_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/nineoldandroids/animation/KeyframeSet_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/nineoldandroids/animation/KeyframeSet_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/nineoldandroids/animation/Keyframe_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/nineoldandroids/animation/Keyframe_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/nineoldandroids/animation/PropertyValuesHolder_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/nineoldandroids/animation/PropertyValuesHolder_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/nineoldandroids/view/NineViewGroup_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/nineoldandroids/view/NineViewGroup_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/nineoldandroids/view/animation/AnimatorProxy_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/nineoldandroids/view/animation/AnimatorProxy_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/nineoldandroids/widget/NineFrameLayout_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/nineoldandroids/widget/NineFrameLayout_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/nineoldandroids/widget/NineHorizontalScrollView_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/nineoldandroids/widget/NineHorizontalScrollView_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/nineoldandroids/widget/NineLinearLayout_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/nineoldandroids/widget/NineLinearLayout_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/view/ActionProviderWrapper_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/view/ActionProviderWrapper_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/view/menu/ActionMenuItemView_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/view/menu/ActionMenuItemView_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/view/menu/ActionMenuPresenter_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/view/menu/ActionMenuPresenter_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/view/menu/ActionMenu_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/view/menu/ActionMenu_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/view/menu/BaseMenuPresenter_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/view/menu/BaseMenuPresenter_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/view/menu/ListMenuItemView_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/view/menu/ListMenuItemView_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/view/menu/MenuBuilder_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/view/menu/MenuBuilder_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/view/menu/MenuItemImpl_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/view/menu/MenuItemImpl_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/view/menu/MenuItemWrapper_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/view/menu/MenuItemWrapper_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/view/menu/MenuPopupHelper_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/view/menu/MenuPopupHelper_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/view/menu/MenuWrapper_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/view/menu/MenuWrapper_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/view/menu/SubMenuBuilder_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/view/menu/SubMenuBuilder_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/view/menu/SubMenuWrapper_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/view/menu/SubMenuWrapper_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/widget/ActionBarContainer_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/widget/ActionBarContainer_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/widget/CapitalizingButton_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/widget/CapitalizingButton_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/widget/CapitalizingTextView_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/widget/CapitalizingTextView_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/widget/FakeDialogPhoneWindow_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/widget/FakeDialogPhoneWindow_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/widget/IcsLinearLayout_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/widget/IcsLinearLayout_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/widget/IcsListPopupWindow_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/widget/IcsListPopupWindow_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/widget/IcsProgressBar_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/widget/IcsProgressBar_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/widget/IcsView_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/widget/IcsView_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/view/ActionProvider_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/view/ActionProvider_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/view/MenuInflater_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/view/MenuInflater_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/widget/ActivityChooserModel_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/widget/ActivityChooserModel_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/widget/ActivityChooserView_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/widget/ActivityChooserView_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/widget/ShareActionProvider_ESTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evo/com/actionbarsherlock/widget/ShareActionProvider_ESTest_scaffolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/generated-sources/r/com/actionbarsherlock/BuildConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/generated-sources/r/com/actionbarsherlock/Manifest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/generated-sources/r/com/actionbarsherlock/R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/actionbarsherlock/internal/ManifestParsingTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/library$All_in_library.ic" NAME="All in library Coverage Results" MODIFIED="1541469321561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="185" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-90249182">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="XML" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.spring.boot.run.usages" />
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="2" />
+          <entry key="JAVA" value="6" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.spring.boot.mvc.usages" />
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="2" />
+          <entry key="java" value="6" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="xml" value="9" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/nineoldandroids/animation/FloatKeyframeSet_ESTest_scaffolding.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/view/menu/ListMenuItemView_ESTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-33">
+              <caret line="12" column="53" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/Downloads/robolectric-1.2-8.jar!/com/xtremelabs/robolectric/RobolectricTestRunner.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1148">
+              <caret line="233" selection-start-line="233" selection-end-line="233" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/pivotallabs/robolectric/1.1/robolectric-1.1-sources.jar!/com/xtremelabs/robolectric/RobolectricTestRunner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="749">
+              <caret line="223" column="60" selection-start-line="223" selection-start-column="60" selection-end-line="223" selection-end-column="60" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/builders/AllDefaultPossibilitiesBuilder.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="113">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/view/menu/MenuItemWrapper_ESTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="32" column="39" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="168" column="22" selection-start-line="168" selection-start-column="22" selection-end-line="168" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/evo/android/support/v4/app/_ActionBarSherlockTrojanHorse_ESTest_scaffolding.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-391">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/evo/android/support/v4/app/_ActionBarSherlockTrojanHorse_ESTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="305">
+              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Desktop/calc/Calculadora-de-Tributos-PJ" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../calc/Calculadora-de-Tributos-PJ" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="enabledProfiles">
+      <list>
+        <option value="sonatype-oss-release" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="36" />
+    <option name="y" value="31" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="library" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ActionBarSherlock-Library" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="library" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ActionBarSherlock-Library" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="library" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="JAVA_HOME" value="C:\Program Files\Java\jdk1.8.0_181" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541469280198" />
+    <property name="cores_evosuite_param" value="1" />
+    <property name="evosuite_gui_dialog_height" value="300" />
+    <property name="evosuite_gui_dialog_width" value="570" />
+    <property name="evosuite_jar_location" value="C:\Users\Thiago\Downloads\evosuite-1.0.6.jar" />
+    <property name="execution_mode" value="MVN" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/robolectric-1.2-8.jar!/" />
+    <property name="memory_evosuite_param" value="2000" />
+    <property name="mvn_location" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="target_folder_evosuite_param" value="src/evo" />
+    <property name="time_evosuite_param" value="3" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="All in library" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="library" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in library" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0afe3971-0029-4c67-88e7-5c2e961acae2" name="Default Changelist" comment="" />
+      <created>1541450691179</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541450691179</updated>
+      <workItem from="1541450695788" duration="7439000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="All_in_library - 2018.11.05 at 22h 54m 54s.xml">
+      <configuration name="All in library" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_library - 2018.11.05 at 23h 05m 25s.xml">
+      <configuration name="All in library" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7439000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Build Variants" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Capture Tool" />
+      <window_info id="Captures" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Analysis" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Android Profiler" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.50075644" side_tool="true" weight="0.3295082" />
+      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="EvoSuite" weight="0.3295082" />
+      <window_info anchor="bottom" id="Logcat" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.3295082" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="JSF" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="CDI" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Device File Explorer" side_tool="true" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Coverage" side_tool="true" visible="true" weight="0.32980332" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="168" column="22" selection-start-line="168" selection-start-column="22" selection-end-line="168" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/nineoldandroids/animation/FloatKeyframeSet_ESTest_scaffolding.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/view/menu/MenuItemWrapper_ESTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="32" column="39" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/evo/android/support/v4/app/_ActionBarSherlockTrojanHorse_ESTest_scaffolding.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-391">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/evo/android/support/v4/app/_ActionBarSherlockTrojanHorse_ESTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/pivotallabs/robolectric/1.1/robolectric-1.1-sources.jar!/com/xtremelabs/robolectric/RobolectricTestRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="749">
+          <caret line="223" column="60" selection-start-line="223" selection-start-column="60" selection-end-line="223" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/robolectric-1.2-8.jar!/com/xtremelabs/robolectric/RobolectricTestRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1148">
+          <caret line="233" selection-start-line="233" selection-end-line="233" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/builders/AllDefaultPossibilitiesBuilder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/evo/com/actionbarsherlock/internal/view/menu/ListMenuItemView_ESTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-33">
+          <caret line="12" column="53" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Android</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.google.android:android:4.0.1.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

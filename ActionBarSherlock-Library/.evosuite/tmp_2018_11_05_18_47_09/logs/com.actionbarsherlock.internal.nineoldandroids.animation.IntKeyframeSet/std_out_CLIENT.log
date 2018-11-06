@@ -1,0 +1,136 @@
+* Starting client
+* Connecting to master process on port 19314
+* Analyzing classpath: 
+  - C:/Users/Thiago/Documents/Calculadora/Calculadora-de-Tributos-PJ/ActionBarSherlock-Library/target/classes
+  - C:\Users\Thiago\android-sdks\platforms\android-14\data\res
+  - C:\Users\Thiago\android-sdks\tools\support\annotations.jar
+  - C:\Program Files\Java\jdk1.8.0_181\jre\lib\charsets.jar
+  - C:\Program Files\Java\jdk1.8.0_181\jre\lib\deploy.jar
+  - C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\access-bridge-64.jar
+  - C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\cldrdata.jar
+  - C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\dnsns.jar
+  - C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\jaccess.jar
+  - C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\jfxrt.jar
+  - C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\localedata.jar
+  - C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\nashorn.jar
+  - C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\sunec.jar
+  - C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\sunjce_provider.jar
+  - C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\sunmscapi.jar
+  - C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\sunpkcs11.jar
+  - C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\zipfs.jar
+  - C:\Program Files\Java\jdk1.8.0_181\jre\lib\javaws.jar
+  - C:\Program Files\Java\jdk1.8.0_181\jre\lib\jce.jar
+  - C:\Program Files\Java\jdk1.8.0_181\jre\lib\jfr.jar
+  - C:\Program Files\Java\jdk1.8.0_181\jre\lib\jfxswt.jar
+  - C:\Program Files\Java\jdk1.8.0_181\jre\lib\jsse.jar
+  - C:\Program Files\Java\jdk1.8.0_181\jre\lib\management-agent.jar
+  - C:\Program Files\Java\jdk1.8.0_181\jre\lib\plugin.jar
+  - C:\Program Files\Java\jdk1.8.0_181\jre\lib\resources.jar
+  - C:\Program Files\Java\jdk1.8.0_181\jre\lib\rt.jar
+  - C:\Users\Thiago\Documents\Calculadora\Calculadora-de-Tributos-PJ\ActionBarSherlock-Library\target\test-classes
+  - C:\Users\Thiago\Documents\Calculadora\Calculadora-de-Tributos-PJ\ActionBarSherlock-Library\target\classes
+  - C:\Users\Thiago\.m2\repository\com\google\android\android\4.0.1.2\android-4.0.1.2.jar
+  - C:\Users\Thiago\.m2\repository\commons-logging\commons-logging\1.1.1\commons-logging-1.1.1.jar
+  - C:\Users\Thiago\.m2\repository\org\apache\httpcomponents\httpclient\4.0.1\httpclient-4.0.1.jar
+  - C:\Users\Thiago\.m2\repository\org\apache\httpcomponents\httpcore\4.0.1\httpcore-4.0.1.jar
+  - C:\Users\Thiago\.m2\repository\org\khronos\opengl-api\gl1.1-android-2.1_r1\opengl-api-gl1.1-android-2.1_r1.jar
+  - C:\Users\Thiago\.m2\repository\xerces\xmlParserAPIs\2.6.2\xmlParserAPIs-2.6.2.jar
+  - C:\Users\Thiago\.m2\repository\xpp3\xpp3\1.1.4c\xpp3-1.1.4c.jar
+  - C:\Users\Thiago\.m2\repository\org\json\json\20080701\json-20080701.jar
+  - C:\Users\Thiago\.m2\repository\com\google\android\support-v4\r7\support-v4-r7.jar
+  - C:\Users\Thiago\.m2\repository\com\pivotallabs\robolectric\1.1\robolectric-1.1.jar
+  - C:\Users\Thiago\.m2\repository\org\objenesis\objenesis\1.0\objenesis-1.0.jar
+  - C:\Users\Thiago\.m2\repository\org\xerial\sqlite-jdbc\3.7.2\sqlite-jdbc-3.7.2.jar
+  - C:\Users\Thiago\.m2\repository\org\javassist\javassist\3.14.0-GA\javassist-3.14.0-GA.jar
+  - C:\Users\Thiago\.m2\repository\commons-codec\commons-codec\1.3\commons-codec-1.3.jar
+  - C:\Users\Thiago\.m2\repository\junit\junit\4.10\junit-4.10.jar
+  - C:\Users\Thiago\.m2\repository\org\hamcrest\hamcrest-core\1.1\hamcrest-core-1.1.jar
+* Finished analyzing classpath
+* Generating tests for class com.actionbarsherlock.internal.nineoldandroids.animation.IntKeyframeSet
+* Test criteria:
+  - Line Coverage
+  - Branch Coverage
+  - Exception
+  - Mutation testing (weak)
+  - Method-Output Coverage
+  - Top-Level Method Coverage
+  - No-Exception Top-Level Method Coverage
+  - Context Branch Coverage
+* Setting up search algorithm for whole suite generation
+[MASTER] 20:18:16.931 [pool-2-thread-1] WARN  TestSuiteSerialization - Cannot load tests because file does not exist: C:\Users\Thiago\Documents\Calculadora\Calculadora-de-Tributos-PJ\ActionBarSherlock-Library\.evosuite\evosuite-seeds\com.actionbarsherlock.internal.nineoldandroids.animation.IntKeyframeSet.seed
+* Loaded 0 tests from C:\Users\Thiago\Documents\Calculadora\Calculadora-de-Tributos-PJ\ActionBarSherlock-Library\.evosuite\evosuite-seeds\com.actionbarsherlock.internal.nineoldandroids.animation.IntKeyframeSet.seed
+* Total number of test goals: 
+  - Line 65
+  - Branch 32
+  - Exception 0
+  - MutationFactory 97
+  - Output 7
+  - Method 4
+  - MethodNoException 4
+  - CBranchFitnessFactory 32
+* Using seed 1541456288162
+* Starting evolution
+[MASTER] 20:18:30.269 [pool-2-thread-1] WARN  TestChromosome - Functional mock problem: org.evosuite.ga.ConstructionFailedException: Failed to add constructor for android.widget.TwoLineListItem due to org.evosuite.ga.ConstructionFailedException: Failed to add constructor for android.app.FragmentBreadCrumbs due to org.evosuite.ga.ConstructionFailedException: Failed to add constructor for com.xtremelabs.robolectric.tester.android.util.TestAttributeSet due to org.evosuite.ga.ConstructionFailedException: Max recursion depth reached
+[MASTER] 20:18:32.169 [pool-2-thread-1] WARN  TestChromosome - Functional mock problem: org.evosuite.ga.ConstructionFailedException: Failed to add constructor for android.widget.TwoLineListItem due to org.evosuite.ga.ConstructionFailedException: Failed to add constructor for com.xtremelabs.robolectric.res.RobolectricPackageManager due to org.evosuite.ga.ConstructionFailedException: Failed to add constructor for com.xtremelabs.robolectric.RobolectricConfig due to org.evosuite.ga.ConstructionFailedException: Failed to add constructor for org.evosuite.runtime.mock.java.io.MockFile due to org.evosuite.ga.ConstructionFailedException: Max recursion depth reached
+[MASTER] 20:18:36.511 [pool-2-thread-1] WARN  TestChromosome - Functional mock problem: org.evosuite.ga.ConstructionFailedException: Failed to add constructor for android.widget.DialerFilter due to org.evosuite.ga.ConstructionFailedException: Failed to add constructor for com.xtremelabs.robolectric.res.RobolectricPackageManager due to org.evosuite.ga.ConstructionFailedException: Failed to add constructor for com.xtremelabs.robolectric.RobolectricConfig due to org.evosuite.ga.ConstructionFailedException: Max recursion depth reached
+[MASTER] 20:18:39.323 [pool-2-thread-1] WARN  TestChromosome - Functional mock problem: org.evosuite.ga.ConstructionFailedException: Failed to add constructor for android.widget.RelativeLayout due to org.evosuite.ga.ConstructionFailedException: Failed to add constructor for com.xtremelabs.robolectric.res.RobolectricPackageManager due to org.evosuite.ga.ConstructionFailedException: Failed to add constructor for com.xtremelabs.robolectric.RobolectricConfig due to org.evosuite.ga.ConstructionFailedException: Failed to add constructor for org.evosuite.runtime.mock.java.io.MockFile due to org.evosuite.ga.ConstructionFailedException: Max recursion depth reached
+[MASTER] 20:18:39.776 [pool-2-thread-1] WARN  TestChromosome - Functional mock problem: org.evosuite.ga.ConstructionFailedException: Failed to add constructor for android.widget.DialerFilter due to org.evosuite.ga.ConstructionFailedException: Failed to add constructor for com.xtremelabs.robolectric.res.RobolectricPackageManager due to org.evosuite.ga.ConstructionFailedException: Failed to add constructor for com.xtremelabs.robolectric.RobolectricConfig due to org.evosuite.ga.ConstructionFailedException: Failed to add constructor for org.evosuite.runtime.mock.java.io.MockFile due to org.evosuite.ga.ConstructionFailedException: Max recursion depth reached
+[MASTER] 20:18:44.025 [pool-2-thread-1] WARN  TestChromosome - Functional mock problem: org.evosuite.ga.ConstructionFailedException: Failed to add constructor for android.widget.RelativeLayout due to org.evosuite.ga.ConstructionFailedException: Failed to add constructor for com.xtremelabs.robolectric.res.RobolectricPackageManager due to org.evosuite.ga.ConstructionFailedException: Failed to add constructor for com.xtremelabs.robolectric.RobolectricConfig due to org.evosuite.ga.ConstructionFailedException: Max recursion depth reached
+[MASTER] 20:18:44.697 [pool-2-thread-1] WARN  TestChromosome - Functional mock problem: org.evosuite.ga.ConstructionFailedException: Failed to add constructor for android.widget.DialerFilter due to org.evosuite.ga.ConstructionFailedException: Have no generator for class com.xtremelabs.robolectric.res.RobolectricPackageManager canUseFunctionalMocks=false, canBeMocked: true
+[MASTER] 20:18:45.306 [pool-2-thread-1] WARN  TestChromosome - Functional mock problem: org.evosuite.ga.ConstructionFailedException: Failed to add constructor for android.widget.TwoLineListItem due to org.evosuite.ga.ConstructionFailedException: Failed to add constructor for com.xtremelabs.robolectric.tester.android.util.TestAttributeSet due to org.evosuite.ga.ConstructionFailedException: Max recursion depth reached
+[MASTER] 20:18:46.869 [pool-2-thread-1] WARN  TestChromosome - Functional mock problem: org.evosuite.ga.ConstructionFailedException: Failed to add constructor for android.widget.RelativeLayout due to org.evosuite.ga.ConstructionFailedException: Failed to add constructor for android.app.ProgressDialog due to org.evosuite.ga.ConstructionFailedException: Failed to add constructor for android.content.ContextWrapper due to org.evosuite.ga.ConstructionFailedException: Failed to add constructor for android.content.MutableContextWrapper due to org.evosuite.ga.ConstructionFailedException: Max recursion depth reached
+[MASTER] 20:18:49.150 [pool-2-thread-1] WARN  TestChromosome - Functional mock problem: org.evosuite.ga.ConstructionFailedException: Failed to add constructor for android.widget.RelativeLayout due to org.evosuite.ga.ConstructionFailedException: Failed to add constructor for android.app.FragmentBreadCrumbs due to org.evosuite.ga.ConstructionFailedException: Failed to add constructor for com.xtremelabs.robolectric.tester.android.util.TestAttributeSet due to org.evosuite.ga.ConstructionFailedException: Max recursion depth reached
+[MASTER] 20:18:50.187 [pool-2-thread-1] WARN  TestChromosome - Functional mock problem: org.evosuite.ga.ConstructionFailedException: Failed to add constructor for android.widget.TwoLineListItem due to org.evosuite.ga.ConstructionFailedException: Max recursion depth reached
+[MASTER] 20:18:52.530 [pool-2-thread-1] WARN  TestChromosome - Functional mock problem: org.evosuite.ga.ConstructionFailedException: Failed to add constructor for android.widget.RelativeLayout due to org.evosuite.ga.ConstructionFailedException: Have no generator for class com.xtremelabs.robolectric.res.RobolectricPackageManager canUseFunctionalMocks=false, canBeMocked: true
+[MASTER] 20:18:54.342 [pool-2-thread-1] WARN  TestChromosome - Functional mock problem: org.evosuite.ga.ConstructionFailedException: Failed to add constructor for android.widget.TwoLineListItem due to org.evosuite.ga.ConstructionFailedException: Failed to add constructor for com.xtremelabs.robolectric.res.RobolectricPackageManager due to org.evosuite.ga.ConstructionFailedException: Failed to add constructor for com.xtremelabs.robolectric.RobolectricConfig due to org.evosuite.ga.ConstructionFailedException: Max recursion depth reached
+[MASTER] 20:18:56.467 [pool-2-thread-1] WARN  TestChromosome - Functional mock problem: org.evosuite.ga.ConstructionFailedException: Failed to add constructor for android.widget.TwoLineListItem due to org.evosuite.ga.ConstructionFailedException: Have no generator for class android.app.DialogFragment canUseFunctionalMocks=false, canBeMocked: true
+[MASTER] 20:18:58.757 [pool-2-thread-1] WARN  TestChromosome - Functional mock problem: org.evosuite.ga.ConstructionFailedException: Failed to add constructor for android.widget.RelativeLayout due to org.evosuite.ga.ConstructionFailedException: Failed to add constructor for android.text.SpannableStringBuilder due to org.evosuite.ga.ConstructionFailedException: Failed to add constructor for android.text.SpannableString due to org.evosuite.ga.ConstructionFailedException: Max recursion depth reached
+[MASTER] 20:18:59.007 [pool-2-thread-1] WARN  TestChromosome - Functional mock problem: org.evosuite.ga.ConstructionFailedException: Failed to add constructor for android.widget.RelativeLayout due to org.evosuite.ga.ConstructionFailedException: Have no generator for class android.content.res.AssetManager canUseFunctionalMocks=false, canBeMocked: true
+[MASTER] 20:19:00.147 [pool-2-thread-1] WARN  TestChromosome - Functional mock problem: org.evosuite.ga.ConstructionFailedException: Failed to add constructor for android.widget.RelativeLayout due to org.evosuite.ga.ConstructionFailedException: Failed to add constructor for com.xtremelabs.robolectric.tester.android.util.TestAttributeSet due to org.evosuite.ga.ConstructionFailedException: Failed to add constructor for org.evosuite.runtime.mock.java.io.MockFile due to org.evosuite.ga.ConstructionFailedException: Max recursion depth reached
+[MASTER] 20:19:00.225 [pool-2-thread-1] WARN  TestChromosome - Functional mock problem: org.evosuite.ga.ConstructionFailedException: Failed to add constructor for android.widget.RelativeLayout due to org.evosuite.ga.ConstructionFailedException: Failed to add constructor for com.xtremelabs.robolectric.res.RobolectricPackageManager due to org.evosuite.ga.ConstructionFailedException: Failed to add constructor for com.xtremelabs.robolectric.RobolectricConfig due to org.evosuite.ga.ConstructionFailedException: Failed to add constructor for org.evosuite.runtime.mock.java.io.MockFile due to org.evosuite.ga.ConstructionFailedException: Failed to add constructor for org.evosuite.runtime.mock.java.io.MockFile due to org.evosuite.ga.ConstructionFailedException: Max recursion depth reached
+[MASTER] 20:19:01.225 [pool-2-thread-1] WARN  TestChromosome - Functional mock problem: org.evosuite.ga.ConstructionFailedException: Failed to add constructor for android.widget.TwoLineListItem due to org.evosuite.ga.ConstructionFailedException: Failed to add constructor for android.content.res.Resources due to org.evosuite.ga.ConstructionFailedException: Failed to add constructor for android.content.ContextWrapper due to org.evosuite.ga.ConstructionFailedException: Max recursion depth reached
+[MASTER] 20:19:01.303 [pool-2-thread-1] WARN  TestChromosome - Functional mock problem: org.evosuite.ga.ConstructionFailedException: Failed to add constructor for android.widget.DialerFilter due to org.evosuite.ga.ConstructionFailedException: Have no generator for class android.content.res.AssetManager canUseFunctionalMocks=false, canBeMocked: true
+* Search finished after 69s and 481 generations, 361116 statements, best individual has fitness: 14.87142857142857
+* Writing sequences to pool
+* Minimizing test suite
+* Going to analyze the coverage criteria
+* Coverage analysis for criterion LINE
+* Coverage of criterion LINE: 94%
+* Total number of goals: 65
+* Number of covered goals: 61
+* Coverage analysis for criterion BRANCH
+* Coverage of criterion BRANCH: 88%
+* Total number of goals: 32
+* Number of covered goals: 28
+* Coverage analysis for criterion EXCEPTION
+* Coverage of criterion EXCEPTION: 100%
+* Total number of goals: 13
+* Number of covered goals: 13
+* Coverage analysis for criterion WEAKMUTATION
+* Coverage of criterion WEAKMUTATION: 97%
+* Total number of goals: 97
+* Number of covered goals: 94
+* Coverage analysis for criterion OUTPUT
+* Coverage of criterion OUTPUT: 71%
+* Total number of goals: 7
+* Number of covered goals: 5
+* Coverage analysis for criterion METHOD
+* Coverage of criterion METHOD: 100%
+* Total number of goals: 4
+* Number of covered goals: 4
+* Coverage analysis for criterion METHODNOEXCEPTION
+* Coverage of criterion METHODNOEXCEPTION: 100%
+* Total number of goals: 4
+* Number of covered goals: 4
+* Coverage analysis for criterion CBRANCH
+* Coverage of criterion CBRANCH: 88%
+* Total number of goals: 32
+* Number of covered goals: 28
+* Generated 24 tests with total length 157
+* Resulting test suite's coverage: 92% (average coverage for all fitness functions)
+* Generating assertions
+* Resulting test suite's mutation score: 50%
+* Compiling and checking tests
+* Writing JUnit test case 'IntKeyframeSet_ESTest' to C:\Users\Thiago\Documents\Calculadora\Calculadora-de-Tributos-PJ\ActionBarSherlock-Library\.evosuite\tmp_2018_11_05_18_47_09\tests
+* Done!
+
